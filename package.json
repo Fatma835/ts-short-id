@@ -1,0 +1,17 @@
+{
+  "name": "ts-short-id",
+  "version": "0.1.0",
+  "description": "11-character base62 IDs from a monotonic clock, sortable and collision-resistant.",
+  "type": "module",
+  "main": "src/index.js",
+  "exports": "./src/index.js",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "test": "node --test"
+  },
+  "keywords": [],
+  "license": "ISC",
+  "dependencies": {}
+}
